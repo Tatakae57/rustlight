@@ -2,3 +2,5 @@
 name = "rustlight"
 version = "0.1.0"
 edition = "2021"
+description = "Dumb program for change the brightness in Linux"
+license = "GPL"
